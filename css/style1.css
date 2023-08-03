@@ -1,0 +1,10 @@
+.product-nm {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.product-nm span {
+  text-decoration: line-through;
+  font-weight: lighter;
+  font-size: 1rem;
+}
